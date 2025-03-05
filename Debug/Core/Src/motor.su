@@ -1,0 +1,6 @@
+../Core/Src/motor.c:10:6:MoveForward	24	static
+../Core/Src/motor.c:29:6:MoveBackward	24	static
+../Core/Src/motor.c:49:6:TurnLeft	24	static
+../Core/Src/motor.c:69:6:TurnRight	24	static
+../Core/Src/motor.c:89:6:Brake	8	static
+../Core/Src/motor.c:109:6:UTurn	24	static
