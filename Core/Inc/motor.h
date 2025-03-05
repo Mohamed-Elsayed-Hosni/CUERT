@@ -30,6 +30,6 @@ void MoveBackward(float);
 void TurnLeft(float);
 void TurnRight(float);
 void Brake(void);
-void UTurn(float);
+void UTurn(float); // TO BE ADDED
 
 #endif /* MADEDRIVERS_MOTOR_H_ */
